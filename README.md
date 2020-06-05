@@ -4,4 +4,4 @@
 
 [Project 2: Practice Example](https://github.com/maingk/PracticeExample)
 
-[By State](./images/positions_by_state.png)
+![By State](/images/positions_by_state.png)
