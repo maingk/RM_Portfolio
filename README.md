@@ -8,6 +8,10 @@
 1. Open the file containing the photo
 2. Marvel at its beauty
 
+___
+
   ![States](/images/positions_by_state.png)
-  
+
+___
+
 3. Close the file
